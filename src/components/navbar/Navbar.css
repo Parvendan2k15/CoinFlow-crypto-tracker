@@ -1,0 +1,40 @@
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+}
+
+*{
+    background-color: rgb(9, 10, 42);
+}
+
+.full-navbar{
+    position: sticky;
+  top: 0px;
+  z-index: 999;
+}
+
+
+.container-fluid{
+    color: white;
+    padding: 15px;
+}
+
+.navbar.navbar-expand-lg.bg-body-tertiary{
+    padding: 0px;
+    margin-top: 20px;
+    background-color: rgb(126, 126, 190);
+}
+
+.collapse.navbar-collapse a {
+   color: white;
+    
+}
+
+a.nav-link.active{
+    color: white;
+}
+
+.coinflow-logo{
+    width: 40px;
+    margin-bottom: 0px;
+}

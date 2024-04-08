@@ -1,0 +1,33 @@
+.coin-content,.description{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    
+}
+
+.coin-logo-text{
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    margin-bottom: 70px;
+}
+
+.coinflow-logo{
+    align-items: center;
+    display: block;
+}
+
+.coin-app{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 64px;
+}
+
+.description{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
