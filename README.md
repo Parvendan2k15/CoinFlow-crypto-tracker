@@ -12,4 +12,3 @@ Exchange and Swap Recommendations: Get recommendations for the best cryptocurren
 Contributing
 We welcome contributions from the community! If you have any suggestions, feature requests, or would like to report a bug, feel free to open an issue or submit a pull request.
 
-Support
