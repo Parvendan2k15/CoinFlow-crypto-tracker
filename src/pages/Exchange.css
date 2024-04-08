@@ -5,6 +5,11 @@
 
 }
 
+.card-text{
+    background-color: transparent;
+
+}
+
 h1{
     font-weight: bold;
 }
@@ -16,11 +21,14 @@ h1{
 
 .card-body{
     height: 500px;
+    background-color: rgb(0 3 102);
 }
 
 .card-title{
     color: white;
     font-weight: bold;
+    border-radius: 5px;
+    padding: 8px;
 }
 
 .card-link{

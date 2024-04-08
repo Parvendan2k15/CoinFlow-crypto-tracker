@@ -2,10 +2,17 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+.card-body{
+    height: 250px;
+    background-color: rgb(9, 10, 42);
+}
 .card{
     margin-left: 7.2rem;
     height: 400px;
     width: 350px;
+    margin-bottom: 3rem;
+    border: none;
 }
 @media screen and (max-width:578px) {
     .card{
@@ -40,4 +47,13 @@
         height: 420px;
         width: 330px;
     }
+}
+
+.card-title{
+    background-color: transparent;
+}
+
+.btn.btn-primary{
+    background-color: white;
+    color: black;
 }
